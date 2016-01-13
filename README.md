@@ -28,6 +28,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 
 ### Chapter 2: Desenvolvimento Ágil
 
++ Rails Competente
 + Good programming practices
 	+ Don't repeat yourself
 	+ SOLID
@@ -35,7 +36,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 	+ Modelo de Trello
 	+ Mapa de História
 	+ Hierárquia de Requisitos
-+ Rails Competente
++ Propriedade Coletiva do Código
 
 ### Chapter 3: Você trabalha com pessoas
 
@@ -60,3 +61,4 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 
 + Adicionar imagem da planilha de projetos
 + Na alocação de projetos, adicionar um valor que indica o desempenho no projeto
++ Fazer os exercicios com uma pasta base no drive.
