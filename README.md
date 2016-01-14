@@ -32,15 +32,23 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 ### Chapter 2: Desenvolvimento Ágil
 
 + Good programming practices
-	+ Don't repeat yourself
 	+ SOLID
+	+ Don't repeat yourself
+	+ "Nada de janelas quebradas"
+
++ XP - eXtremming Programming
+	+ Propriedade Coletiva do Código
 	+ Programação em Par
-+ Modelo de Sprint
+	+ Small Realeases
+	+ TDD
+	+ Refatoração
++ SCRUM
 	+ Modelo de Trello
 	+ Mapa de História
 	+ Hierárquia de Requisitos
-+ Propriedade Coletiva do Código
+
 + Papel de um Scrum Master dentro da CJR
++ Assertividade
 
 ### Chapter 3: Você trabalha com pessoas
 
@@ -56,7 +64,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 
 ### Chapter 4: A Busca por Qualidade
 
-+ Front End
++ Front End Expertise
 	+ Bootstrap
 	+ Materialize
 + TDD
@@ -68,3 +76,4 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Fazer os exercicios com uma pasta base no drive.
 + Adicionar planning poker e como funciona na CJR
 + Organizar todas as perguntas com fóruns
++ Encontrar exercicios de SOLID

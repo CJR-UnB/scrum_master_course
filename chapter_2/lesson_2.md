@@ -9,8 +9,6 @@ Ao longo desse capítulo você poderá descobrir como o desenvolvimento funciona
 
 ### Good Programmming Practices
 
-Existem vários principios derivados tanto do XP (Extremming Programming) e do Scrum que devem ser observadas para obeter melhores resultados.
-
 Primeiramente, vamos começar com o básico. Respondá o estudo dirigido `/chapter_2/exercise_2.md` para continuar sua jornada pelo conhecimento.
 
 Agora você já está preparado, vamos ao que interessa.
@@ -39,3 +37,54 @@ O principio de segregação de interfaces afirma que um cliente não precisa uti
 + Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
 
 Concluindo, nossas classes não podem quebrar caso desejemos mudar as classes de baixo nível que funcionam com elas.
+
+Além disso, existem outros principios que devem ser seguidos pelo Scrum Master afim de manter a qualidade de software ótima e ser um exemplo para seus desenvolvedores.
+
+***"Nada de janelas quabradas"***
+
+Quando um desenvolvedor deixa um código sem cobertura testes, por exemplo, o próximo desenvolvedor tem essa sensação que não houve zelo por aquele código, e cria um novo método, deixando-o sem testar também. Com o tempo será possível notar uma grande queda na cobertura de testes, tanto que talvez se torne muito difícil para a equipe reverter o cenário. O mesmo poderia valer para código deixado sem refatorar, ou qualquer outra má prática de desenvolvimento.
+Mas o contrário também pode acontecer. Se boas práticas são feitas dentro do ambiente, todos os desenvolvedores criam maior resistência a manter essa práticas e a não quebrá-las.
+
+### XP - eXtremming Programming
+
+***Propriedade Coletiva do Código***
+
+
+***Programação em Par***
+
+Um programador pode levar horas para encontrar um problema se estiver trabalhando a muito tempo, cansado ou até mesmo não conhecer algum detalhe do objeto de estudo. Portanto, como é apenas um computador, o novato é que fica à frente fazendo a codificação, e o instrutor acompanha ajudando a desenvolver suas habilidades. Desta forma o programa sempre é revisto por duas pessoas, evitando e diminuindo assim a possibilidade de defeitos. Com isto busca-se sempre a evolução da equipe, melhorando a qualidade do código fonte gerado.
+
+***Small Realeases***
+
+A liberação de pequenas versões funcionais do projeto auxilia muito no processo de aceitação por parte do cliente, que já pode testar uma parte do sistema que está comprando. As versões chegam a ser ainda menores que as produzidas por outras metodologias incrementais.
+
+***TDD***
+
+TDD, ou Test Driven Development, é uma prática de XP que faz com que os desenvolvedores tenham que escrever teste antes mesmo de fazer o próprio código. Essa pratica de programação funciona com o seguinte fluxo:
+
++ 1) Adicione um teste rapidamente
++ 2) Execute todos os testes e observe o novo teste falhar
++ 3) Faça uma pequena mudança para fazer o teste passar
++ 4) Execute todos os teste e observe que foram bem sucedidos
++ 5) Refatore
+
+![fluxo_tdd](../images/chapter_2/tdd.png)
+
+As gemas que facilitam o processo de TDD em rails são:
+
++ [Rspec-rails](https://rubygems.org/gems/rspec-rails)
++ [Capybara](https://rubygems.org/gems/capybara)
+
+Caso deseje praticar TDD com Rails e conhecer as gemas que facilitam esse processo, faça esse [tutorial](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
+
+***Refatoração***
+
+É um processo que permite a melhoria continua da programação, com o mínimo de introdução de erros e mantendo a compatibilidade com o código já existente. Refabricar melhora a clareza (leitura) do código, divide-o em módulos mais coesos e de maior reaproveitamento, evitando a duplicação de código-fonte.
+
+### SCRUM
+
+### Bibliografia
+
+[https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+[http://www.desenvolvimentoagil.com.br/xp/](http://www.desenvolvimentoagil.com.br/xp/)
+[https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema)
