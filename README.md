@@ -17,6 +17,9 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 
 ### Chapter 0: Quem é o Scrum Master
 
++ Responsabilidades de um Scrum Master
++ Rails Competente
+
 ### Chapter 1: Gestão de Projetos
 
 + Como funciona a alocação de membros
@@ -28,15 +31,16 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 
 ### Chapter 2: Desenvolvimento Ágil
 
-+ Rails Competente
 + Good programming practices
 	+ Don't repeat yourself
 	+ SOLID
+	+ Programação em Par
 + Modelo de Sprint
 	+ Modelo de Trello
 	+ Mapa de História
 	+ Hierárquia de Requisitos
 + Propriedade Coletiva do Código
++ Papel de um Scrum Master dentro da CJR
 
 ### Chapter 3: Você trabalha com pessoas
 
@@ -62,3 +66,5 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Adicionar imagem da planilha de projetos
 + Na alocação de projetos, adicionar um valor que indica o desempenho no projeto
 + Fazer os exercicios com uma pasta base no drive.
++ Adicionar planning poker e como funciona na CJR
++ Organizar todas as perguntas com fóruns
