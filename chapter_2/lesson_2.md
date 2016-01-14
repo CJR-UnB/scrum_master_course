@@ -83,8 +83,3 @@ Caso deseje praticar TDD com Rails e conhecer as gemas que facilitam esse proces
 
 ### SCRUM
 
-### Bibliografia
-
-[https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-[http://www.desenvolvimentoagil.com.br/xp/](http://www.desenvolvimentoagil.com.br/xp/)
-[https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema)

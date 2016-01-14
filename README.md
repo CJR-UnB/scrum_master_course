@@ -35,6 +35,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 	+ SOLID
 	+ Don't repeat yourself
 	+ "Nada de janelas quebradas"
+	+
 
 + XP - eXtremming Programming
 	+ Propriedade Coletiva do Código
@@ -68,6 +69,14 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 	+ Bootstrap
 	+ Materialize
 + TDD
++ Clean Code
+
+
+### Bibliografia
+
+[https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+[http://www.desenvolvimentoagil.com.br/xp/](http://www.desenvolvimentoagil.com.br/xp/)
+[https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema)
 
 ### Melhorias
 
@@ -77,3 +86,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Adicionar planning poker e como funciona na CJR
 + Organizar todas as perguntas com fóruns
 + Encontrar exercicios de SOLID
+
+### Leituras para validar
+
++ [Refactoring](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
