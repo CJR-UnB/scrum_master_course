@@ -72,8 +72,19 @@ TDD, ou Test Driven Development, é uma prática de XP que faz com que os desenv
 
 As gemas que facilitam o processo de TDD em rails são:
 
-+ [Rspec-rails](https://rubygems.org/gems/rspec-rails)
-+ [Capybara](https://rubygems.org/gems/capybara)
++ [Rspec-rails](https://rubygems.org/gems/rspec-rails) -> para testes de unidade
++ [Capybara](https://rubygems.org/gems/capybara) -> para teste de integração
+
+**Exercícios:**
+
+> 1) O que é um teste de unidade?
+
+Resposta:
+
+> 2) O que é um teste de integração?
+
+Resposta:
+
 
 Caso deseje praticar TDD com Rails e conhecer as gemas que facilitam esse processo, faça esse [tutorial](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
 

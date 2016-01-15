@@ -35,7 +35,6 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 	+ SOLID
 	+ Don't repeat yourself
 	+ "Nada de janelas quebradas"
-	+
 
 + XP - eXtremming Programming
 	+ Propriedade Coletiva do Código
@@ -43,6 +42,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 	+ Small Realeases
 	+ TDD
 	+ Refatoração
+
 + SCRUM
 	+ Modelo de Trello
 	+ Mapa de História
@@ -86,7 +86,12 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Adicionar planning poker e como funciona na CJR
 + Organizar todas as perguntas com fóruns
 + Encontrar exercicios de SOLID
++ Exercícios de Clean Code
++ Adicionar mais questões no estudo dirigido de Git
++ Criar uma aplicação chamada blog e com o bug da página da home como exericio de Heroku
++ Adicionar exercícios de ambiente
 
 ### Leituras para validar
 
 + [Refactoring](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
++ [http://www.desenvolvimentoagil.com.br/](http://www.desenvolvimentoagil.com.br/)
