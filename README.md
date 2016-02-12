@@ -45,8 +45,10 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 
 + SCRUM
 	+ Modelo de Trello
-	+ Mapa de História
+	+ Mapa de História 
 	+ Hierárquia de Requisitos
+	+ Modelo de Reunião
+	+ Reunião Diária
 
 + Papel de um Scrum Master dentro da CJR
 + Assertividade
@@ -75,7 +77,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 ### Bibliografia
 
 [https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-[http://www.desenvolvimentoagil.com.br/xp/](http://www.desenvolvimentoagil.com.br/xp/)
+[http://www.desenvolvimentoagil.com.br](http://www.desenvolvimentoagil.com.br/)
 [https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema)
 
 ### Melhorias

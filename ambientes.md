@@ -48,8 +48,11 @@ Para desenvolvermos essas histórias, no GitHub, criaremos um branch para cada u
 | feature_usuario_compra_produto	  | Usuário compra um produto     |
 | feature_usuario_vende_produto		  | Usuário vende um produto	  |
 
+Obs.: pode se criar siglas para as os nomes da branch desde que seja mantido um arquivo `branch_name.md` para legenda.
+
 Assim, esses branch terão apenas um desenvolvedor responsável. Além disso, pode-se criar um branch para funcionalidades gerais como implementar o devise ou mudar de bootstrap para materialize.
 Esses branchs tem como objetivo evoluir o projeto e portanto são muito instáveis já que os desenvolvedores estão desenvolvendo nesses branchs.
+Para realizar o merge com o master, cada desenvolvedor deve dar merge com a master e realizar qualquer alteração para corrigir os conflitos gerados pelo merge. Uma vez solucionados os conflitos, o desenvolvedor deve pedir um pull request com a master. O gerente deve revisar o código e caso não esteja adequado, o pull request deve ser negado com um feedback do que deve ser melhorado para ele ser aceito.
 Porém, o branch master deve estar estável com o que ele possui. Todos os branchs de feature são unidos no master e o objetivo é manter a master estável depois de todos os merges.
 Todos os branchs definem o ambiente de desenvolvimento e teste.
 Mas antes:
