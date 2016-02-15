@@ -92,6 +92,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Adicionar mais questões no estudo dirigido de Git
 + Criar uma aplicação chamada blog e com o bug da página da home como exericio de Heroku
 + Adicionar exercícios de ambiente
++ Estudar metódologias de gerenciamento de riscos
 
 ### Leituras para validar
 

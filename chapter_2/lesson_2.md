@@ -200,4 +200,4 @@ Resumindo:
 
 ### Responsabilidade
 
-O Scrum Master tem responsabilidade de mantêr todas as práticas citadas aqui. Por mais que alguns momentos alguns desenvolvedores possam não querer manter as práticas, 
+O Scrum Master tem responsabilidade de mantêr todas as práticas citadas aqui. Por mais que alguns momentos alguns desenvolvedores possam não querer manter as práticas, é importante que isso seja mantido. "Nada de janelas quebradas".s
