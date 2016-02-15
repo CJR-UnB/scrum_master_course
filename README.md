@@ -51,7 +51,7 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 	+ Reunião Diária
 
 + Papel de um Scrum Master dentro da CJR
-+ Assertividade
++ Responsabilidade
 
 ### Chapter 3: Você trabalha com pessoas
 
