@@ -55,16 +55,13 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Gerenciamento de Riscos
 + Responsabilidades do Scrum Master
 + Responsabilidades dos Desenvolvedores
-+ Clima da Equipe
 + Advocacia com o Cliente
-+ Oratória
 + Acompanhamento de Membros
-+ Feedback One on one
 + Feedback 360
 
 ### Chapter 4: A Busca por Qualidade
 
-+ Front End Expertise
++ Front End
 	+ Bootstrap
 	+ Materialize
 + Clean Code
