@@ -67,7 +67,6 @@ Ensinar membros da CJR a terem conciência de um Scrum Master e saberem liderar 
 + Front End Expertise
 	+ Bootstrap
 	+ Materialize
-+ TDD
 + Clean Code
 
 

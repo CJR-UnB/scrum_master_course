@@ -22,3 +22,14 @@ Esse estudo dirigido deve ser respondido para adquirir ou relembrar conhecimento
 > **2.5** No contexto de OO, respondá o que é polimofirmo e explique como os dois tipos de polimofirmo funcionam. 
 
 **Resposta:**
+
+
+**Exercícios:**
+
+> 1) O que é um teste de unidade?
+
+Resposta:
+
+> 2) O que é um teste de integração?
+
+Resposta:
