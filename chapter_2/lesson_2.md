@@ -187,17 +187,3 @@ Encontros diários presenciais são um pouco complicados devido ao dia a dia de 
 + Há algum impedimento no seu caminho?
 
 De preferência, os membros devem ter o costume de responder essas perguntas no mesmo horário. Sugestão: 10h00.
-
-### Papel de Um Scrum Master na CJR
-
-O Papel de um scrum master é ser responsável por todo o projeto. Desde da interface com o cliente depois que o projeto é fechado por meio do contrato até entrega do projeto ao cliente. Além disso, ele também é responsável pelo desempenho dos desenvolvedores, documentação das reuniões.
-
-Resumindo:
-
-+ Interface com o cliente
-+ Cobrar desenvolvedores
-+ Documentação
-
-### Responsabilidade
-
-O Scrum Master tem responsabilidade de mantêr todas as práticas citadas aqui. Por mais que alguns momentos alguns desenvolvedores possam não querer manter as práticas, é importante que isso seja mantido. "Nada de janelas quebradas".s
